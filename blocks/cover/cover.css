@@ -1,0 +1,9 @@
+.cover {
+  margin: 60px auto 0;
+  max-width: 1184px;
+  position: relative;
+}
+
+.cover:hover .cover__img{
+  opacity: .3;
+}

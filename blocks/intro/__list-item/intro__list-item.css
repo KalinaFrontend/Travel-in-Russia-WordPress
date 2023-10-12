@@ -1,0 +1,9 @@
+.intro__list-item {
+  box-sizing: border-box;
+  margin: 0;
+  color: #fff;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 0.75rem;
+  line-height: 1.1rem;
+}
